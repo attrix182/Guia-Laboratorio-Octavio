@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554989724 source:c:\users\alumno\desktop\laboratorio1-programacion1-2019--master\laboratorio1-programacion1-2019--master\clase7\arraysenparalelo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
